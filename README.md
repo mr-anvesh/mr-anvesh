@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anvesh Mishra
 - 👀 I’m interested in Web Development, AI and ML.
-- 🌱 I’m currently learning Python to build bots, backend frameworks and AI Agents.
+- 🌱 I’m currently learning Python to build bots, frameworks and AI Agents.
 - 💞️ I’m looking to collaborate on Python backend based projects.
-- 😎 Expanding my expertise in Flutter and ngrok. 
+- 😎 On the quest to become an AI/ML expert. 
 - ⚡ Current Expertise in Languages: Python, HTML, CSS, SQL
 
